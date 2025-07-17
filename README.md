@@ -179,12 +179,6 @@ The server’s multithreaded design allows these interactions to proceed simulta
 
 ---
 
-## License
-
-(Specify your license here, e.g., MIT License.)
-
----
-
 ## Authors
 
 * Mit Narodia
